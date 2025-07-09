@@ -5,7 +5,6 @@ The **Jordyn Reid's Portfolio** consists of a webpage with tabs that illustrate 
 
 ## 🌐 Website
 
-Live site: [https://reidj1221.github.io](https://reidj1221.github.io)
 Live site: https://reidj1221.github.io/github.io/
 
 ## 📁 Project Structure
